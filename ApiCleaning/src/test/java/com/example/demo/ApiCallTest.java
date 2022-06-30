@@ -4,7 +4,7 @@ import java.io.IOException;
 
 import org.junit.Test;
 
-import com.bitcoinprice.apicleaning.equests.Requests;
+import com.apicleaning.equests.Requests;
 
 import static org.junit.Assert.*;
 

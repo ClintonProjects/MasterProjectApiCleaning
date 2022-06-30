@@ -9,7 +9,7 @@
 		<version>2.5.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bitcoinprice</groupId>
+	<groupId>com.apicleaning</groupId>
 	<artifactId>ApiCleaning</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Api and Sort</name>
