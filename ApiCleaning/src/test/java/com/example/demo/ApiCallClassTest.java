@@ -6,7 +6,7 @@ import java.io.IOException;
 
 import org.junit.Test;
 
-import com.bitcoinprice.dataparsing.requests.Requests;
+import com.bitcoinprice.apicleaning.equests.Requests;
 import com.neovisionaries.ws.client.WebSocketException;
 
 public class ApiCallClassTest {

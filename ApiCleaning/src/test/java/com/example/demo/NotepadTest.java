@@ -6,7 +6,7 @@ import java.io.IOException;
 
 import org.junit.Test;
 
-import com.bitcoinprice.dataparsing.requests.NotePad;
+import com.bitcoinprice.apicleaning.equests.NotePad;
 
 public class NotepadTest {
 
