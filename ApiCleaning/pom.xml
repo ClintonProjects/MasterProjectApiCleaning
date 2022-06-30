@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bitcoinprice</groupId>
-	<artifactId>MasterProjectApiClean</artifactId>
+	<artifactId>ApiCleaning</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Api and Sort</name>
 	<description>Demo project for Spring Boot</description>
